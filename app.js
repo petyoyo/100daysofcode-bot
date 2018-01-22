@@ -2,10 +2,10 @@ const Twitter = require('twitter');
 const config = require('./config.js');
 const T = new Twitter(config);
 
-// Set up your search parameters
+// Set up your count and search parameters
 const params = {
   q: '#100daysofcode',
-  count: 10,
+  count: 30,
   result_type: 'recent',
   lang: 'en'
 }
