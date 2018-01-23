@@ -5,7 +5,7 @@ const T = new Twitter(config);
 // Set up your count and search parameters
 const params = {
   q: '#100daysofcode',
-  count: 30,
+  count: 50,
   result_type: 'recent',
   lang: 'en'
 }
