@@ -6,6 +6,6 @@ ___
 The hashtag to search by and the number of tweets to be favourited, can be set by adjusting the 'q' and 'count' parameters in the app.js file.
 
 ```javascript
-q: '#100daysofcode',
-count: 25,
+q: '#100daysofcode'
+count: 25
 ```
