@@ -1,6 +1,7 @@
-# #100DaysOfCode - Twitter Bot
-🤖 A simple Twitter bot to favourite all things #100DaysOfCode. I wrote a [tutorial](https://medium.com/@ajukco/how-i-built-a-twitter-bot-for-100daysofcode-768ef5e12405) on how you can create your own Twitter bot. If you need any help feel free to [tweet me](https://twitter.com/ajukco). 
+# 🤖#100DaysOfCode - Twitter Bot
+A simple Twitter bot to favourite all things #100DaysOfCode. If you want to build your own, you can follow the tutorial I wrote [here](https://medium.com/@ajukco/how-i-built-a-twitter-bot-for-100daysofcode-768ef5e12405). If you need any help feel free to [tweet me](https://twitter.com/ajukco), I don't bite.
 
+**TL;DR**
 ___
 
 The hashtag to search by and the number of tweets to be favourited, can be set by adjusting the 'q' and 'count' parameters in the app.js file.
